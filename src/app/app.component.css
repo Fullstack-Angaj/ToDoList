@@ -1,0 +1,54 @@
+.header{
+    overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 10px 10px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+input.col-7.form-control.ng-untouched.ng-pristine.ng-valid {
+  margin-top: 15px;
+  position: fixed
+}
+
+button.btn.btn-light.text-success {
+  color: white;
+  background-color: black;
+}
+
+button.btn.btn-light.text-success {
+  color: white;
+  background-color: black;
+  margin-top: 15px;
+}
+
+
+.border {
+  border: black;
+  border-style: solid;
+  border-width: medium;
+  padding-left: 100px;
+  padding-bottom: 85px;
+  margin-left: 490px;
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+  block-size: px;
+  box-sizing: border-box;
+  width: 35%;
+  /* border: 5px solid red; */
+  float: unset;
+  margin-top: 25px;
+  margin-left: 430px;
+}
+
+.input {
+  width: 300px;
+  margin-top: 16px;
+}
+
+.content {
+    height: 100px;
+    font-size: x-large;
+    margin-top: 20px;
+    text-align: center;
+}
